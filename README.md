@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying in on **Delhi Techonological University**
 
-- 🌱 I’m currently learning **Game Development Using Unreal Engine 5.4**
+- 🌱 I’m currently learning **Game Development Using Unreal Engine 5.4 and C++ and Started to Learn CSS and HTML**
 
 - 📫 How to reach me **bhashitm2@gmail.com**
 
