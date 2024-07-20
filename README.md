@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhashit Maheshwari</h1>
 <h3 align="center">An Engineer from India</h3>
 
-- 🔭 I’m currently Studying in **Delhi Techonological University**
+- 🔭 I’m doing Computer Science Engineering from **Delhi Techonological University**
 
 - 🌱 I’m currently learning **Game Development Using Unreal Engine 5.4 and C++ and Started to Learn CSS and HTML**
 
